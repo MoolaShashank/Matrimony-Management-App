@@ -13,7 +13,7 @@ A progressive C++ OOP project built phase-by-phase, demonstrating object-oriente
 | Name | Registration Number |
 |------|-------------------|
 | Kavish Bohra | RA2511056010236 |
-| Daksh Jain | RA2511056010248 |
+| Daksh Gupta | RA2511056010248 |
 | Moola Shashank | RA2511056010255 |
 
 ---
